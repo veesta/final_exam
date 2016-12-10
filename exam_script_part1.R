@@ -16,6 +16,6 @@ print (my.f2)
 #u = 1 since we are only looking at one predictor right now 
 pwr.f2.test(u=1, f2=.125, power=.85)
 
-N= 2 + 719 +1 
+N= 2 + 72 +1 
 
 print(N)
